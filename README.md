@@ -4,9 +4,9 @@
 
 ## Project Overview
 
-**Project Title** : Zomato Data Analysis
-**Level** : Advanced
-**Database** : zomato_db
+- **Project Title** : Zomato Data Analysis
+- **Level** : Advanced
+- **Database** : zomato_db
 
 This project is a comprehensive data analysis of Zomato's food delivery platform. It focuses on evaluating customer behavior, restaurant performance, rider efficiency, seasonal trends, and order patterns using SQL for data querying and Power BI for data visualization. The goal is to extract actionable business insights that can help improve customer experience, optimize operations, and support strategic decisions for Zomato's growth.
 
