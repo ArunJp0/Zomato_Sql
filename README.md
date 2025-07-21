@@ -1,6 +1,10 @@
 # Zomato Data Analysis Project - A SQL Based Business Intelligence Exploration
 
 ![](https://github.com/ArunJp0/Zomato_Sql/blob/main/zomato-white-logo.png)
+![](https://github.com/ArunJp0/Zomato_Sql/blob/main/Zom-1.PNG)
+![](https://github.com/ArunJp0/Zomato_Sql/blob/main/Zom-2.PNG)
+![](https://github.com/ArunJp0/Zomato_Sql/blob/main/Zom-3.PNG)
+![](https://github.com/ArunJp0/Zomato_Sql/blob/main/Zom-4.PNG)
 
 ## Project Overview
 
